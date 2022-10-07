@@ -38,7 +38,7 @@
         app:layout_constraintTop_toBottomOf="@+id/tv_text">
 
         <RadioButton
-            android:id="@+id/radioButton3"
+            android:id="@+id/btn_scissor"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -46,14 +46,14 @@
             android:text="剪刀" />
 
         <RadioButton
-            android:id="@+id/radioButton2"
+            android:id="@+id/btn_stone"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="石頭" />
 
         <RadioButton
-            android:id="@+id/radioButton"
+            android:id="@+id/btn_paper"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
